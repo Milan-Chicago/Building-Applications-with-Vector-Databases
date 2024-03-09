@@ -47,6 +47,6 @@ In this course, you will explore the implementation of six applications using ve
 
 🔗 To enroll in the course or for further information, visit [deeplearning.ai](https://www.deeplearning.ai/short-courses/).
 
-<img src="images/LP.png" height="300"> 
+<img src="images/LP.png"> 
 
 Shipping and Sharing!!!
