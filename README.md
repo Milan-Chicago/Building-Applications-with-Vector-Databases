@@ -46,3 +46,7 @@ In this course, you will explore the implementation of six applications using ve
 🌟 **Tim Tully** is a board member at Pinecone and brings extensive expertise in vector databases to guide you through building various applications.
 
 🔗 To enroll in the course or for further information, visit [deeplearning.ai](https://www.deeplearning.ai/short-courses/).
+
+<img src="images/LP.png" height="300"> 
+
+Shipping and Sharing!!!
